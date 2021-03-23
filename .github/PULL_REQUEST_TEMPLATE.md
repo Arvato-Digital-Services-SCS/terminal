@@ -6,6 +6,7 @@
 
 <!-- Please review the items on the PR checklist before submitting-->
 ## PR Checklist
+
 * [ ] Closes #xxx
 * [ ] CLA signed. If not, go over [CHris Graves](https://cla.opensource.microsoft.com/microsoft/Terminal) and sign the CLA
 * [ ] Tests added/passed
